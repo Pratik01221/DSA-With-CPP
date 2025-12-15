@@ -32,6 +32,5 @@ int main(){
 
 
 
-@REM WAF to print all the unique values in an array.
+ 
 
-@REM WAF to print intersection of 2 arrays.
