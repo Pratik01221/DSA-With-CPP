@@ -4,7 +4,7 @@ using namespace std;
 
 
 int main(){
-    int arr[]={1,2,3,4,5,6,7,8,9};
+    int arr[]={1,2,3,4,5,456,23,12,34,67,89,90};
     int size=sizeof(arr)/sizeof(int);
 
     int smallest=INT_MAX;

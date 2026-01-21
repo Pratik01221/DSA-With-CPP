@@ -4,7 +4,7 @@ using namespace std;
 
 
 int main(){
-    int arr[]={65,98,89,34,65,88};
+    int arr[]={65,98,23,1,0,-4,56,89,34};
     int size=sizeof(arr)/sizeof(int);
     int smallest= INT_MAX;
     int greatest= INT_MIN;
