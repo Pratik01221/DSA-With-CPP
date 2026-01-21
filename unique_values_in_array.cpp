@@ -20,7 +20,7 @@ void Unique_values(int arr[],int size){
 
 int main(){
 
-    int arr[] = {1,1,2,3,4,2,5};
+    int arr[] = {1,1,55,64,44,4,4,2,5};
 
     int size=sizeof(arr)/sizeof(int);
 
