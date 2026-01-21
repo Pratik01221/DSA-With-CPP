@@ -16,7 +16,7 @@ void Reverse_array( int arr[],int size){
 
 int main(){
 
-    int arr[]={1,2,3,4,5,6,8};
+    int arr[]={9,8,7,6,5,4,3,2,1};
     int size=sizeof(arr)/sizeof(int);
 
     Reverse_array(arr, size);
